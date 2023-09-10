@@ -43,3 +43,72 @@ body {
     background: #FFF;
 
 }
+
+/*Main Section styles*/
+
+.failures-section {
+    display: flex;
+    gap: 85px;
+    align-items: center;
+    width: 75%;
+}
+
+
+
+.failures-title {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+
+.failures-description {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.failures-list {
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
+/*Plans section styles*/
+
+.plans{
+    
+}
+.plans-title {
+    color: #151414;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+
+
+}
+
+.skills {
+    display: flex;
+    gap: 155px;
+    
+    padding: 85px 355px;
+}
+
+.skills-title {
+    color: #151414;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 700;
+
+}
+
+.skills-description {
+    color: #737272;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+
+
+}
